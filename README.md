@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hey👋, I'm Senal Fernando</div>  
+### <div align="center">I'm Senal Fernando</div>  
   
 
 - 🌱 I’m a Computer Science Undergraduate Student  
